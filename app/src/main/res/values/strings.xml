@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MySql_App</string>
+    <string name="ID">Identificador</string>
+    <string name="agregarCliente">Agregar Cliente</string>
+    <string name="buscarCliente">Buscar Cliente</string>
+    <string name="nombre">Nombre</string>
+    <string name="etiqueta">Identificador</string>
+    <string name="tag">Etiqueta</string>
+    <string name="a_Paterno">Apellido Paterno</string>
+    <string name="a_Materno">Apellido Materno</string>
+    <string name="edad">Edad</string>
+    <string name="dir">Dirección</string>
+    <string name="direc">Calle</string>
+    <string name="muni">Municipio</string>
+    <string name="enviar">Enviar</string>
+    <string name="buscar">Buscar</string>
+    <string name="registro_personal">Registro Personal</string>
+    <string name="busqueda_personal">Busqueda de Personal</string>
+    <string name="estados_view">Municipios</string>
+    <string name="Correo">Correo</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="cerrarS">Cerrar Sesión</string>
+    <string name="registrar">Registrar</string>
+    <string name="proveedor">Proveedor</string>
+    <string name="regresar">Regresar</string>
+</resources>
